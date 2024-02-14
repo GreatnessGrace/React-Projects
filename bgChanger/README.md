@@ -1,8 +1,15 @@
-# React + Vite
+# Color Changer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that allows users to change the background color by selecting different color buttons.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Allows users to change the background color by clicking color buttons.
+- Uses React's state management with the `useState` hook.
+- Uses inline styles to dynamically change the background color.
+
+## Technologies Used
+
+- React.js
+
+
