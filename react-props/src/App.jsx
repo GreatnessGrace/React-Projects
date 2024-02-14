@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-    <h1 className='bg-green-500 mb-5'>Is Tailwind Working ?</h1>
+    <h1 className='bg-green-500 mb-5'>The Concept of Props in React</h1>
     <Card name='Grace' someObj= {myObj} btnText='click me'/>
     <Card name='Unstoppable' btnText='visit me'/>
 
